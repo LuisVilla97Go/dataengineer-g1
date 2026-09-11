@@ -1,0 +1,5 @@
+pwd: Muestra la ruta completa del directorio
+cd: Permite cambiar de directorioS
+ls: Lista todos los archivos
+mkdir: Crea un directorio nuevo
+rm: Remueve o elimina un directorio o archivos
