@@ -1,0 +1,25 @@
+.env
+.env.backup-*
+__pycache__/
+*.pyc
+logs/*
+config/*.local.json
+
+# Entorno y herramientas locales de Ubuntu/Windows
+/.venv/
+/.venv-*/
+/.vscode/
+/*.code-workspace
+/*.cmd
+/configurar-airflow.ps1
+/README_LOCAL.md
+/USAR_PYTHON_314.md
+/logs/
+/config/activar-airflow.sh
+/config/airflow-wrapper.sh
+/config/airflow.env
+/config/instalar-airflow-python314.sh
+/config/python-airflow.sh
+/config/terminal-airflow.bash
+/config/wsl_configure.py
+/config/README.md
